@@ -1,2 +1,4 @@
-requests
-beautifulsoup4
+import requests
+import json
+import csv
+from bs4 import BeautifulSoup
