@@ -42,10 +42,23 @@ python scraper.py
 ```
 
 ## Output Files
+## Sample Output
 
-- books.json
-- books.csv
+When you run the program:
 
+```
+Website loaded successfully!
+
+Total books found: 20
+
+{'Title': 'A Light in the Attic', 'Price': '£51.77', 'Availability': 'In stock', 'Rating': 'Three'}
+{'Title': 'Tipping the Velvet', 'Price': '£53.74', 'Availability': 'In stock', 'Rating': 'One'}
+
+Total books scraped: 1000
+
+Data successfully saved to books.json
+Data successfully saved to books.csv
+```
 ## Author
 
 Hadia Batool
